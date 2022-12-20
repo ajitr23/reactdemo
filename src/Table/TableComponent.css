@@ -1,3 +1,9 @@
 .content{
     margin:30px
 }
+.addrow{
+    color:'blue'
+}
+.addrow:hover{
+   cursor: pointer;
+}

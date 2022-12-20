@@ -58,7 +58,7 @@ const TableComponent=()=>{
        
         <div className='row'>
             <div className='col-2'>
-                <p style={{color:'blue'}} onClick={AddRowHandler}>+ Add Row</p>
+                <p className="addrow" style={{color:'blue'}} onClick={AddRowHandler}>+ Add Row</p>
            
             </div>
             <div className='col-2'>
